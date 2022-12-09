@@ -4,4 +4,11 @@ h1 {
     color: limegreen;
 }
 
-/* git push */
+hr {
+    border: blue dotted 3px;
+    border-radius: 100%;
+}
+
+body {
+    background-color: black;
+}
